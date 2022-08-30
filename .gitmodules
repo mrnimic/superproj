@@ -1,0 +1,9 @@
+[submodule "submod_01"]
+	path = submod_01
+	url = https://github.com/mrnimic/submod_01.git
+[submodule "submod_02"]
+	path = submod_02
+	url = https://github.com/mrnimic/submod_02.git
+[submodule "submod_03"]
+	path = submod_03
+	url = https://github.com/mrnimic/submod_03.git
